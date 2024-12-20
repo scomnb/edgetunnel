@@ -25,7 +25,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = [https://repolook.pages.dev/scomnb/cfworkerssub/refs/heads/main/addressesapi.txt];
+let addressesapi = ["https://repolook.pages.dev/scomnb/cfworkerssub/refs/heads/main/addressesapi.txt"];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
