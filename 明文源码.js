@@ -1,7 +1,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = '';
+let userID = '46a95306-87c2-4356-9a5d-8f5ad70e6c90';
 let proxyIP = '';
 let sub = '';
 let subConverter = 'SUBAPI.fxxk.dedyn.io';
@@ -25,7 +25,7 @@ let go2Socks5s = [
 	'*.loadshare.org',
 ];
 let addresses = [];
-let addressesapi = [];
+let addressesapi = [https://repolook.pages.dev/scomnb/cfworkerssub/refs/heads/main/addressesapi.txt];
 let addressesnotls = [];
 let addressesnotlsapi = [];
 let addressescsv = [];
